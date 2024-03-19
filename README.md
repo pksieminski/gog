@@ -1,0 +1,2 @@
+# gog
+GoG (Go Generic)
